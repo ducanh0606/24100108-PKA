@@ -47,7 +47,7 @@ Chuyển từ bất kỳ cơ số nào sang hệ 10 và ngược lại. Sử d�
 Ví dụ chuyển đổi giữa nhị phân, bát phân, và thập lục phân giúp máy tính xử lý thông tin hiệu quả hơn.
 ## 5.Biểu diễn số nguyên có dấu
 **Số bù 1 và bù 2:** Phương pháp phổ biến biểu diễn số âm trong máy tính bằng cách đảo bit và cộng 1. Bù 2 thường được dùng trong phép toán nhị phân để đơn giản hóa các phép cộng và trừ.  
-**Phạm vi biểu diễn:** Xác định bởi số bit dùng để biểu diễn số, ví dụ 8 bit có thể biểu diễn từ -128 đến 127.
+**Phạm vi biểu diễn:** Xác định bởi số bit dùng để biểu diễn số, ví dụ 8 bit có thể biểu diễn từ -128 đến 127.  
 Các ví dụ minh họa cho phép cộng và trừ số nguyên có dấu, bao gồm cả các lỗi tràn số khi vượt quá phạm vi biểu diễn.
 ## 6.Phép toán trên số nguyên
 **Phép cộng:** Cộng các bit, lưu ý tràn số với số không dấu, và kiểm tra dấu với số có dấu.  
