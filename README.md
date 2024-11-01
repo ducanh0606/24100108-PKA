@@ -16,7 +16,7 @@ Thiết bị ngoại vi: Như bàn phím, chuột, màn hình, giúp người d�
 Hệ điều hành (OS): Quản lý phần cứng và phần mềm, cung cấp giao diện cho người dùng (như Windows, macOS, Linux).
 Phần mềm ứng dụng: Phục vụ nhu cầu cụ thể của người dùng như phần mềm văn phòng, đồ họa, trình duyệt web, và phần mềm lập trình.
 ## 3.Các loại máy tính
-**Máy tính cá nhân (PC):** Bao gồm máy để bàn và máy tính xách tay, phục vụ người dùng cá nhân.  
+- **Máy tính cá nhân (PC):** Bao gồm máy để bàn và máy tính xách tay, phục vụ người dùng cá nhân.  
 **Máy tính bảng (Tablet), máy trạm (Workstation), máy tính nhúng (Embedded Computer), máy chủ (Server), siêu máy tính (Supercomputer), và máy tính lượng tử (Quantum Computer)** đáp ứng nhiều nhu cầu sử dụng khác nhau từ phổ thông đến chuyên biệt.
 ## 4.Lịch sử phát triển của máy tính
 **Jacques de Vaucanson:** Tiên phong trong lĩnh vực tự động hóa, chế tạo máy dệt tự động.  
@@ -65,3 +65,4 @@ Các thư mục và tệp tin thường được tổ chức dạng phân cấp 
 - **Đường dẫn (Path)** mô tả vị trí của tệp hoặc thư mục trong hệ thống. Có hai loại đường dẫn:  
  - **Đường dẫn tuyệt đối (Absolute Path):** Chỉ rõ vị trí từ thư mục gốc (VD trên Windows: C:\Program Files\MyApp\app.exe).  
  - **Đường dẫn tương đối (Relative Path):** Chỉ vị trí từ thư mục hiện tại, sử dụng “.” để chỉ thư mục hiện hành và “..” để chỉ thư mục cha.
+# Bài 4 : 
