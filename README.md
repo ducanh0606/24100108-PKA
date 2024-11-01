@@ -108,20 +108,20 @@ Tên đường dẫn: Sử dụng các ký hiệu như `.` (thư mục hiện t�
 - Committed: Tệp đã được lưu vào repo.
 ## 3. Các lệnh Git cơ bản
  - **Làm việc với Git:**
-``` - `git init`: Khởi tạo một repo mới.
-``` - `git add`: Thêm tệp vào staging area.
-``` - `git commit -m "message"`: Lưu thay đổi với một thông báo.
-``` - `git status`: Kiểm tra trạng thái repo.
-``` - `git diff`: So sánh sự khác biệt giữa các tệp đã thay đổi và các tệp đã được staging.
-**Làm việc với kho lưu trữ từ xa:**
- - `git clone`: Sao chép một repo từ xa.
- - `git pull`: Lấy và hợp nhất các thay đổi từ repo từ xa vào nhánh hiện tại.
- - `git push`: Đẩy các thay đổi từ repo cục bộ lên repo từ xa.
+ - `git init`: Khởi tạo một repo mới.
+ - `git add`: Thêm tệp vào staging area.
+ - `git commit -m "message"`: Lưu thay đổi với một thông báo.
+ - `git status`: Kiểm tra trạng thái repo.
+ - `git diff`: So sánh sự khác biệt giữa các tệp đã thay đổi và các tệp đã được staging.
+- **Làm việc với kho lưu trữ từ xa:**
+  - `git clone`: Sao chép một repo từ xa.
+  - `git pull`: Lấy và hợp nhất các thay đổi từ repo từ xa vào nhánh hiện tại.
+  - `git push`: Đẩy các thay đổi từ repo cục bộ lên repo từ xa.
 ## 4. Quản lý nhánh (Branching)
 - **Tạo và làm việc với nhánh:**
-- `git branch`: Tạo nhánh mới.
-- `git checkout`: Chuyển đổi giữa các nhánh.
-- `git merge`: Hợp nhất các thay đổi từ nhánh khác vào nhánh hiện tại.
+ - `git branch`: Tạo nhánh mới.
+ - `git checkout`: Chuyển đổi giữa các nhánh.
+ - `git merge`: Hợp nhất các thay đổi từ nhánh khác vào nhánh hiện tại.
 - **Best Practices:** Giữ các thay đổi logic trong một commit, pull trước khi bắt đầu làm việc để tránh xung đột, push sau khi commit để cập nhật lên repo từ xa.
 ## 5. Các mẹo tránh vấn đề thường gặp
 - **Tránh sửa trực tiếp thư mục .git** để tránh làm hỏng repo.
