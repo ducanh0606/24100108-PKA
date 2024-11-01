@@ -29,3 +29,25 @@ Phần mềm ứng dụng: Phục vụ nhu cầu cụ thể của người dùng
 **Thế hệ thứ ba (1964-1971):** Sử dụng mạch tích hợp (IC), máy tính nhỏ gọn hơn và hỗ trợ đa nhiệm.
 **Thế hệ thứ tư (1971-hiện tại):** Ra đời vi xử lý, dẫn đến sự phát triển của máy tính cá nhân.
 **Thế hệ thứ năm (hiện tại và tương lai):** Tập trung vào trí tuệ nhân tạo và máy tính lượng tử.
+# Bài 2 : Biểu Diễn Thông Tin và Hệ Thống Số
+## 1.Biểu diễn thông tin trong máy tính
+**Số hóa thông tin:** Dữ liệu như hình ảnh, âm thanh và chữ viết được số hóa để máy tính xử lý.
+**Hệ nhị phân:** Sử dụng hai ký hiệu "0" và "1" để biểu diễn thông tin, gọi là bit. Các đơn vị đo thông tin từ nhỏ đến lớn gồm bit, byte, kilobyte, megabyte, gigabyte, và terabyte.
+## 2.Hệ thống số
+**Hệ thống số có vị trí (Positional Number System):** Giá trị của chữ số phụ thuộc vào vị trí của nó, ví dụ: hệ thập phân, nhị phân, bát phân, và thập lục phân.
+**Hệ thống số không có vị trí (Non-Positional Number System):** Giá trị không phụ thuộc vào vị trí, như hệ La Mã.
+## 3.Các hệ thống số phổ biến
+**Số thập phân (cơ số 10):** Hệ thống quen thuộc với con người, sử dụng các số từ 0 đến 9.
+**Số nhị phân (cơ số 2):** Sử dụng 0 và 1, dùng trong máy tính vì dễ thực hiện trong hệ thống điện tử.
+**Số bát phân (cơ số 8):** Sử dụng các số từ 0 đến 7, dễ dàng chuyển đổi từ hệ nhị phân qua cách nhóm 3 bit.
+**Số thập lục phân (cơ số 16):** Sử dụng các ký tự 0-9 và A-F (tương đương 10-15), tiện lợi khi biểu diễn địa chỉ bộ nhớ.
+## 4.Chuyển đổi cơ số
+Chuyển từ bất kỳ cơ số nào sang hệ 10 và ngược lại. Sử dụng phép nhân với giá trị vị trí cho phần nguyên và phép nhân lặp cho phần thập phân.
+Ví dụ chuyển đổi giữa nhị phân, bát phân, và thập lục phân giúp máy tính xử lý thông tin hiệu quả hơn.
+## 5.Biểu diễn số nguyên có dấu
+**Số bù 1 và bù 2:** Phương pháp phổ biến biểu diễn số âm trong máy tính bằng cách đảo bit và cộng 1. Bù 2 thường được dùng trong phép toán nhị phân để đơn giản hóa các phép cộng và trừ.
+**Phạm vi biểu diễn:** Xác định bởi số bit dùng để biểu diễn số, ví dụ 8 bit có thể biểu diễn từ -128 đến 127.
+Các ví dụ minh họa cho phép cộng và trừ số nguyên có dấu, bao gồm cả các lỗi tràn số khi vượt quá phạm vi biểu diễn.
+## 6.Phép toán trên số nguyên
+**Phép cộng:** Cộng các bit, lưu ý tràn số với số không dấu, và kiểm tra dấu với số có dấu.
+**Phép trừ:** Sử dụng bù 2 của số trừ để thực hiện phép trừ thành phép cộng.
