@@ -74,19 +74,19 @@ Các thư mục và tệp tin thường được tổ chức dạng phân cấp 
 - **Red Hat và họ hàng:** RHEL, Fedora, CentOS, Scientific Linux, sử dụng hệ quản lý gói .rpm.  
 - Mỗi distro được thiết kế để phục vụ các nhu cầu khác nhau từ sử dụng cá nhân đến phát triển, bảo mật, nghiên cứu.
 ## 3.Hệ thống tệp Linux
-Cấu trúc thư mục chính:  
-- `/`: Thư mục gốc.  
-- `/bin`: Chứa các chương trình cơ bản.  
-- `/etc`: Các tập tin cấu hình.  
-- `/home`: Thư mục chính của từng người dùng.  
+- **Cấu trúc thư mục chính:**  
+  - `/`: Thư mục gốc.  
+  - `/bin`: Chứa các chương trình cơ bản.  
+  - `/etc`: Các tập tin cấu hình.  
+  - `/home`: Thư mục chính của từng người dùng.  
 Tên đường dẫn: Sử dụng các ký hiệu như `.` (thư mục hiện tại), `..` (thư mục cha), `~` (thư mục chính của người dùng).
 ## 4. Shell và dòng lệnh
 - **Shell:** Môi trường làm việc với hệ điều hành qua dòng lệnh, tiện dụng cho các tác vụ tự động hóa, làm việc từ xa.  
 - **Lệnh cơ bản:**  
-- `1pw` (in thư mục làm việc hiện tại),  
-- `cd` (thay đổi thư mục),  
-- `ls` (liệt kê các tệp/thư mục).  
-- Lệnh tệp và thư mục: `mkdir` (tạo thư mục), `rm` (xóa tệp), `cp` (sao chép tệp), `mv` (di chuyển/đổi tên tệp).
+  - `1pw` (in thư mục làm việc hiện tại),  
+  - `cd` (thay đổi thư mục),  
+  - `ls` (liệt kê các tệp/thư mục).  
+  - Lệnh tệp và thư mục: `mkdir` (tạo thư mục), `rm` (xóa tệp), `cp` (sao chép tệp), `mv` (di chuyển/đổi tên tệp).
 ## 5.Quyền truy cập tệp
 - **Các quyền cơ bản:** `read (r)`, `write (w)`, `execute (x)`, và cấu trúc quyền cho chủ sở hữu, nhóm, và những người khác.  
 - **Thay đổi quyền truy cập:** Sử dụng `chmod` với các ký hiệu chữ cái (u, g, o) hoặc giá trị số để cấp hoặc thu hồi quyền. Ví dụ `chmod 755` cho phép chủ sở hữu có quyền đọc, ghi và thực thi, trong khi người khác chỉ có quyền đọc và thực thi.
@@ -105,7 +105,7 @@ Tên đường dẫn: Sử dụng các ký hiệu như `.` (thư mục hiện t�
   - Staged: Tệp đã thêm vào staging area, sẵn sàng để commit.  
   - Committed: Tệp đã được lưu vào repo.
 ## 3. Các lệnh Git cơ bản
- - **Làm việc với Git:**
+- **Làm việc với Git:**
   - `git init`: Khởi tạo một repo mới.
   - `git add`: Thêm tệp vào staging area.
   - `git commit -m "message"`: Lưu thay đổi với một thông báo.
