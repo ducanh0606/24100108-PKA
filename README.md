@@ -2,10 +2,10 @@
 Tổng hợp kiến thức
 # Bài 1 : các khái niệm cơ bản
 ## 1.Giới thiệu về máy tính
-**Định nghĩa:** Máy tính là thiết bị điện tử có khả năng lưu trữ, truy xuất, và xử lý thông tin. Được sử dụng rộng rãi trong nhiều lĩnh vực như giáo dục (học trực tuyến, phần mềm hỗ trợ), kinh doanh (quản lý tài chính, khách hàng), và sản xuất (lập kế hoạch, điều khiển dây chuyền sản xuất).//
+**Định nghĩa:** Máy tính là thiết bị điện tử có khả năng lưu trữ, truy xuất, và xử lý thông tin. Được sử dụng rộng rãi trong nhiều lĩnh vực như giáo dục (học trực tuyến, phần mềm hỗ trợ), kinh doanh (quản lý tài chính, khách hàng), và sản xuất (lập kế hoạch, điều khiển dây chuyền sản xuất).  
 **Phân loại:** Máy tính thường bao gồm phần cứng và phần mềm.
 ## 2.Phần cứng và phần mềm
-**Phần cứng (Hardware):**//
+**Phần cứng (Hardware):**
 CPU (Bộ vi xử lý): Được coi là "bộ não" của máy tính, thực hiện các phép toán và xử lý thông tin.
 RAM (Bộ nhớ tạm thời): Lưu trữ dữ liệu và chương trình đang hoạt động, giúp CPU truy cập nhanh chóng.
 Ổ cứng (HDD/SSD): Lưu trữ dữ liệu lâu dài, bao gồm hệ điều hành, ứng dụng, và tài liệu.
