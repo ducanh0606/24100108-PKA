@@ -65,4 +65,18 @@ Các thư mục và tệp tin thường được tổ chức dạng phân cấp 
 - **Đường dẫn (Path)** mô tả vị trí của tệp hoặc thư mục trong hệ thống. Có hai loại đường dẫn:  
  - **Đường dẫn tuyệt đối (Absolute Path):** Chỉ rõ vị trí từ thư mục gốc (VD trên Windows: C:\Program Files\MyApp\app.exe).  
  - **Đường dẫn tương đối (Relative Path):** Chỉ vị trí từ thư mục hiện tại, sử dụng “.” để chỉ thư mục hiện hành và “..” để chỉ thư mục cha.
-# Bài 4 : 
+# Bài 4 : Hệ điều hành Linux
+## 1.Tổng quan về Linux
+- **Lịch sử:** Linux có nguồn gốc từ Unix, được phát triển năm 1969 bởi Dennis Ritchie và Ken Thompson tại Bell Labs. Linux được Linus Torvalds tạo ra vào năm 1992.  
+- **Lý do học Linux:** Là hệ điều hành mã nguồn mở phổ biến, cho phép tùy chỉnh cao, sử dụng trên nhiều nền tảng, đặc biệt là cho các hệ thống máy chủ và phát triển phần mềm.
+## 2.Các bản phân phối Linux (Distros)
+- **Debian và họ hàng:** Ubuntu, Linux Mint, Kali Linux, Tails OS, dùng hệ quản lý gói .deb.  
+- **Red Hat và họ hàng:** RHEL, Fedora, CentOS, Scientific Linux, sử dụng hệ quản lý gói .rpm.  
+- Mỗi distro được thiết kế để phục vụ các nhu cầu khác nhau từ sử dụng cá nhân đến phát triển, bảo mật, nghiên cứu.
+## 3.Hệ thống tệp Linux
+Cấu trúc thư mục chính:  
+- '/': Thư mục gốc.  
+- '/bin': Chứa các chương trình cơ bản.  
+- '/etc': Các tập tin cấu hình.  
+- '/home': Thư mục chính của từng người dùng.  
+Tên đường dẫn: Sử dụng các ký hiệu như . (thư mục hiện tại), .. (thư mục cha), ~ (thư mục chính của người dùng).
