@@ -96,14 +96,14 @@ Tên đường dẫn: Sử dụng các ký hiệu như `.` (thư mục hiện t�
 - **Git:** Được phát triển bởi Linus Torvalds năm 2005, Git hỗ trợ kiểm soát phiên bản phân tán, giúp từng người dùng có bản sao của toàn bộ kho lưu trữ (repo).
 ## 2. Cấu trúc và hoạt động của Git
 - **Kho lưu trữ Git:**  
-  - Kho lưu trữ (Repository): Lưu trữ các tệp và lịch sử thay đổi.  
-  - Working Directory: Nơi người dùng chỉnh sửa các tệp.  
-  - Staging Area: Khu vực chờ để đánh dấu các thay đổi trước khi lưu vào repo.  
-  - Commits: Các trạng thái được lưu lại mãi mãi của các thay đổi trong repo.  
+  - **Kho lưu trữ (Repository):** Lưu trữ các tệp và lịch sử thay đổi.  
+  - **Working Directory:** Nơi người dùng chỉnh sửa các tệp.  
+  - **Staging Area:** Khu vực chờ để đánh dấu các thay đổi trước khi lưu vào repo.  
+  - **Commits:** Các trạng thái được lưu lại mãi mãi của các thay đổi trong repo.  
 - **Các khu vực chính:**  
-  - Unmodified/modified: Tệp chưa/chỉnh sửa.  
-  - Staged: Tệp đã thêm vào staging area, sẵn sàng để commit.  
-  - Committed: Tệp đã được lưu vào repo.
+  - **Unmodified/modified:** Tệp chưa/chỉnh sửa.  
+  - **Staged:** Tệp đã thêm vào staging area, sẵn sàng để commit.  
+  - **Committed:** Tệp đã được lưu vào repo.
 ## 3. Các lệnh Git cơ bản
 - **Làm việc với Git:**
   - `git init`: Khởi tạo một repo mới.
