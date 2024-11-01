@@ -75,8 +75,8 @@ Các thư mục và tệp tin thường được tổ chức dạng phân cấp 
 - Mỗi distro được thiết kế để phục vụ các nhu cầu khác nhau từ sử dụng cá nhân đến phát triển, bảo mật, nghiên cứu.
 ## 3.Hệ thống tệp Linux
 Cấu trúc thư mục chính:  
-- '/': Thư mục gốc.  
-- '/bin': Chứa các chương trình cơ bản.  
-- '/etc': Các tập tin cấu hình.  
-- '/home': Thư mục chính của từng người dùng.  
+- `/: Thư mục gốc.  
+- `/bin`: Chứa các chương trình cơ bản.  
+- `/etc`: Các tập tin cấu hình.  
+- `/home`: Thư mục chính của từng người dùng.  
 Tên đường dẫn: Sử dụng các ký hiệu như . (thư mục hiện tại), .. (thư mục cha), ~ (thư mục chính của người dùng).
