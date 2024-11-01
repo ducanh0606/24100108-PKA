@@ -117,3 +117,13 @@ Tên đường dẫn: Sử dụng các ký hiệu như `.` (thư mục hiện t�
  - `git clone`: Sao chép một repo từ xa.
  - `git pull`: Lấy và hợp nhất các thay đổi từ repo từ xa vào nhánh hiện tại.
  - `git push`: Đẩy các thay đổi từ repo cục bộ lên repo từ xa.
+## 4. Quản lý nhánh (Branching)
+- **Tạo và làm việc với nhánh:**
+- `git branch`: Tạo nhánh mới.
+- `git checkout`: Chuyển đổi giữa các nhánh.
+- `git merge`: Hợp nhất các thay đổi từ nhánh khác vào nhánh hiện tại.
+- **Best Practices:** Giữ các thay đổi logic trong một commit, pull trước khi bắt đầu làm việc để tránh xung đột, push sau khi commit để cập nhật lên repo từ xa.
+## 5. Các mẹo tránh vấn đề thường gặp
+- **Tránh sửa trực tiếp thư mục .git** để tránh làm hỏng repo.
+- **Commit thường xuyên** để dễ dàng quản lý xung đột.
+- **Luôn pull trước khi làm việc** để có phiên bản mã mới nhất từ repo từ xa.
