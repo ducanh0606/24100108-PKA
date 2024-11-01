@@ -12,18 +12,20 @@ RAM (Bộ nhớ tạm thời): Lưu trữ dữ liệu và chương trình đang 
 Bo mạch chủ (Motherboard): Kết nối và cho phép các thành phần phần cứng giao tiếp.
 Card đồ họa (GPU): Xử lý hình ảnh và video, quan trọng cho game và đồ họa 3D.
 Thiết bị ngoại vi: Như bàn phím, chuột, màn hình, giúp người dùng tương tác với máy tính.
+
 **-Phần mềm (Software):**
 Hệ điều hành (OS): Quản lý phần cứng và phần mềm, cung cấp giao diện cho người dùng (như Windows, macOS, Linux).
 Phần mềm ứng dụng: Phục vụ nhu cầu cụ thể của người dùng như phần mềm văn phòng, đồ họa, trình duyệt web, và phần mềm lập trình.
 #### 3.Các loại máy tính
 **-Máy tính cá nhân (PC):** Bao gồm máy để bàn và máy tính xách tay, phục vụ người dùng cá nhân.
+
 **-Máy tính bảng (Tablet), máy trạm (Workstation), máy tính nhúng (Embedded Computer), máy chủ (Server), siêu máy tính (Supercomputer), và máy tính lượng tử (Quantum Computer)** đáp ứng nhiều nhu cầu sử dụng khác nhau từ phổ thông đến chuyên biệt.
 ##### 4.Lịch sử phát triển của máy tính
--Jacques de Vaucanson: Tiên phong trong lĩnh vực tự động hóa, chế tạo máy dệt tự động.
--Joseph Marie Jacquard: Phát minh máy dệt điều khiển bằng thẻ đục lỗ, bước đầu cho kỹ thuật lưu trữ chương trình.
--Charles Babbage: Được coi là "cha đẻ của máy tính", thiết kế các máy tính cơ học như Difference Engine và Analytical Engine.
--Konrad Zuse: Chế tạo máy tính Z3, máy tính lập trình đầu tiên.
--John W. Mauchly và J. Presper Eckert: Phát triển ENIAC (1945) và UNIVAC (1951), các máy tính đầu tiên dùng trong thương mại và quân sự.
+**-Jacques de Vaucanson:** Tiên phong trong lĩnh vực tự động hóa, chế tạo máy dệt tự động.
+**-Joseph Marie Jacquard:** Phát minh máy dệt điều khiển bằng thẻ đục lỗ, bước đầu cho kỹ thuật lưu trữ chương trình.
+**-Charles Babbage:** Được coi là "cha đẻ của máy tính", thiết kế các máy tính cơ học như Difference Engine và Analytical Engine.
+**-Konrad Zuse:** Chế tạo máy tính Z3, máy tính lập trình đầu tiên.
+**-John W. Mauchly và J. Presper Eckert:** Phát triển ENIAC (1945) và UNIVAC (1951), các máy tính đầu tiên dùng trong thương mại và quân sự.
 ###### 5.Các thế hệ máy tính
 -Thế hệ đầu tiên (1940-1955): Sử dụng ống chân không, kích thước lớn và khó lập trình.
 -Thế hệ thứ hai (1956-1963): Sử dụng transistor, kích thước giảm, hiệu suất cao hơn.
