@@ -52,3 +52,16 @@ Các ví dụ minh họa cho phép cộng và trừ số nguyên có dấu, bao 
 ## 6.Phép toán trên số nguyên
 **Phép cộng:** Cộng các bit, lưu ý tràn số với số không dấu, và kiểm tra dấu với số có dấu.  
 **Phép trừ:** Sử dụng bù 2 của số trừ để thực hiện phép trừ thành phép cộng.
+# Bài 3 : Kỹ Năng Sử Dụng Máy Tính và Công Cụ
+## 1.Mục tiêu và Nội dung
+Cung cấp nền tảng về kỹ năng sử dụng máy tính, nhằm giúp sinh viên làm việc và học tập hiệu quả hơn.  
+**Nội dung bao gồm:** quản lý tệp và thư mục, sử dụng Google Drive, kỹ thuật tìm kiếm hiệu quả trên Google, và giới thiệu về Generative AI cùng ChatGPT.
+## 2.Quản lý Tệp và Thư Mục trên Máy Tính
+**Khái niệm Tệp tin (File):** Đơn vị lưu trữ dữ liệu trên máy tính, có thể ở nhiều dạng như văn bản, âm thanh, hình ảnh. Các tệp tin thường có phần tên và phần mở rộng (VD: bai_tap.pdf).  
+**Khái niệm Thư mục (Folder):** Đơn vị logic dùng để nhóm và tổ chức các tệp tin. Thư mục có thể chứa các thư mục con và thường được đặt tên theo nội dung hoặc mục đích sử dụng.
+**Tổ chức dữ liệu hiệu quả:** Đặt tên tệp tin và thư mục dễ hiểu, tránh ký tự đặc biệt, giúp việc tìm kiếm và truy cập nhanh chóng.
+**Cấu trúc Cây Thư mục:**
+Các thư mục và tệp tin thường được tổ chức dạng phân cấp như một cấu trúc cây.
+  **Đường dẫn (Path)** mô tả vị trí của tệp hoặc thư mục trong hệ thống. Có hai loại đường dẫn:
+  **Đường dẫn tuyệt đối (Absolute Path):** Chỉ rõ vị trí từ thư mục gốc (VD trên Windows: C:\Program Files\MyApp\app.exe).
+  **Đường dẫn tương đối (Relative Path):** Chỉ vị trí từ thư mục hiện tại, sử dụng “.” để chỉ thư mục hiện hành và “..” để chỉ thư mục cha.
