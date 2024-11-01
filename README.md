@@ -99,7 +99,7 @@ Tên đường dẫn: Sử dụng các ký hiệu như `.` (thư mục hiện t�
 - Kho lưu trữ (Repository): Lưu trữ các tệp và lịch sử thay đổi.  
 - Working Directory: Nơi người dùng chỉnh sửa các tệp.  
 - Staging Area: Khu vực chờ để đánh dấu các thay đổi trước khi lưu vào repo.  
-Commits: Các trạng thái được lưu lại mãi mãi của các thay đổi trong repo.  
+- Commits: Các trạng thái được lưu lại mãi mãi của các thay đổi trong repo.  
 **Các khu vực chính:**  
 - Unmodified/modified: Tệp chưa/chỉnh sửa.  
 - Staged: Tệp đã thêm vào staging area, sẵn sàng để commit.  
