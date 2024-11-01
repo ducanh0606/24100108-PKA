@@ -95,34 +95,32 @@ Tên đường dẫn: Sử dụng các ký hiệu như `.` (thư mục hiện t�
 - **Mục đích của kiểm soát phiên bản:** Quản lý lịch sử thay đổi, phục hồi phiên bản cũ, chia sẻ mã, và tránh mất dữ liệu.  
 - **Git:** Được phát triển bởi Linus Torvalds năm 2005, Git hỗ trợ kiểm soát phiên bản phân tán, giúp từng người dùng có bản sao của toàn bộ kho lưu trữ (repo).
 ## 2. Cấu trúc và hoạt động của Git
-- **Kho lưu trữ Git:**
-  
-- Kho lưu trữ (Repository): Lưu trữ các tệp và lịch sử thay đổi.  
-- Working Directory: Nơi người dùng chỉnh sửa các tệp.  
-- Staging Area: Khu vực chờ để đánh dấu các thay đổi trước khi lưu vào repo.  
-- Commits: Các trạng thái được lưu lại mãi mãi của các thay đổi trong repo.  
-- **Các khu vực chính:**
-  
-- Unmodified/modified: Tệp chưa/chỉnh sửa.  
-- Staged: Tệp đã thêm vào staging area, sẵn sàng để commit.  
-- Committed: Tệp đã được lưu vào repo.
+- **Kho lưu trữ Git:**  
+  - Kho lưu trữ (Repository): Lưu trữ các tệp và lịch sử thay đổi.  
+  - Working Directory: Nơi người dùng chỉnh sửa các tệp.  
+  - Staging Area: Khu vực chờ để đánh dấu các thay đổi trước khi lưu vào repo.  
+  - Commits: Các trạng thái được lưu lại mãi mãi của các thay đổi trong repo.  
+- **Các khu vực chính:**  
+  - Unmodified/modified: Tệp chưa/chỉnh sửa.  
+  - Staged: Tệp đã thêm vào staging area, sẵn sàng để commit.  
+  - Committed: Tệp đã được lưu vào repo.
 ## 3. Các lệnh Git cơ bản
  - **Làm việc với Git:**
- - `git init`: Khởi tạo một repo mới.
- - `git add`: Thêm tệp vào staging area.
- - `git commit -m "message"`: Lưu thay đổi với một thông báo.
- - `git status`: Kiểm tra trạng thái repo.
- - `git diff`: So sánh sự khác biệt giữa các tệp đã thay đổi và các tệp đã được staging.
+  - `git init`: Khởi tạo một repo mới.
+  - `git add`: Thêm tệp vào staging area.
+  - `git commit -m "message"`: Lưu thay đổi với một thông báo.
+  - `git status`: Kiểm tra trạng thái repo.
+  - `git diff`: So sánh sự khác biệt giữa các tệp đã thay đổi và các tệp đã được staging.
 - **Làm việc với kho lưu trữ từ xa:**
   - `git clone`: Sao chép một repo từ xa.
   - `git pull`: Lấy và hợp nhất các thay đổi từ repo từ xa vào nhánh hiện tại.
   - `git push`: Đẩy các thay đổi từ repo cục bộ lên repo từ xa.
 ## 4. Quản lý nhánh (Branching)
 - **Tạo và làm việc với nhánh:**
- - `git branch`: Tạo nhánh mới.
- - `git checkout`: Chuyển đổi giữa các nhánh.
- - `git merge`: Hợp nhất các thay đổi từ nhánh khác vào nhánh hiện tại.
-- **Best Practices:** Giữ các thay đổi logic trong một commit, pull trước khi bắt đầu làm việc để tránh xung đột, push sau khi commit để cập nhật lên repo từ xa.
+  - `git branch`: Tạo nhánh mới.
+  - `git checkout`: Chuyển đổi giữa các nhánh.
+  - `git merge`: Hợp nhất các thay đổi từ nhánh khác vào nhánh hiện tại.
+ - **Best Practices:** Giữ các thay đổi logic trong một commit, pull trước khi bắt đầu làm việc để tránh xung đột, push sau khi commit để cập nhật lên repo từ xa.
 ## 5. Các mẹo tránh vấn đề thường gặp
 - **Tránh sửa trực tiếp thư mục .git** để tránh làm hỏng repo.
 - **Commit thường xuyên** để dễ dàng quản lý xung đột.
