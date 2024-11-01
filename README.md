@@ -11,8 +11,8 @@ RAM (Bộ nhớ tạm thời): Lưu trữ dữ liệu và chương trình đang 
 Ổ cứng (HDD/SSD): Lưu trữ dữ liệu lâu dài, bao gồm hệ điều hành, ứng dụng, và tài liệu.
 Bo mạch chủ (Motherboard): Kết nối và cho phép các thành phần phần cứng giao tiếp.
 Card đồ họa (GPU): Xử lý hình ảnh và video, quan trọng cho game và đồ họa 3D.
-Thiết bị ngoại vi: Như bàn phím, chuột, màn hình, giúp người dùng tương tác với máy tính.
-**Phần mềm (Software):**
+Thiết bị ngoại vi: Như bàn phím, chuột, màn hình, giúp người dùng tương tác với máy tính.  
+**Phần mềm (Software):**  
 Hệ điều hành (OS): Quản lý phần cứng và phần mềm, cung cấp giao diện cho người dùng (như Windows, macOS, Linux).
 Phần mềm ứng dụng: Phục vụ nhu cầu cụ thể của người dùng như phần mềm văn phòng, đồ họa, trình duyệt web, và phần mềm lập trình.
 ## 3.Các loại máy tính
